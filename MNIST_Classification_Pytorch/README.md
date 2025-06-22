@@ -15,6 +15,7 @@ Finally saving the model to retrieve it for next usage without declaration the c
 Thank you. 
 
 Next: 
+
       1-Improve the readability of the information from learning phase, by showing time elapsed using tqdm
 
       2- Using Learning rate Scheduling.
