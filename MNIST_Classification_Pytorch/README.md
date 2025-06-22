@@ -1,6 +1,6 @@
 **This project for study Purpose, not efficient results!**
 
-In this project, We use MNIST dataset for Classification Task
+In this project, We use MNIST dataset for Classification Task.
 
 Working with build NN model, training phase , save the model parameters during training.
 
@@ -14,7 +14,8 @@ Finally saving the model to retrieve it for next usage without declaration the c
 
 Thank you. 
 
-Next: 1-Improve the readability of the information from learning phase, by showing time elapsed using tqdm
+Next: 
+      1-Improve the readability of the information from learning phase, by showing time elapsed using tqdm
 
       2- Using Learning rate Scheduling.
       
