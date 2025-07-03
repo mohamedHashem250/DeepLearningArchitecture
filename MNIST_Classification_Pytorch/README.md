@@ -12,6 +12,10 @@ Assement the model using Confusion matrix, Classfication Report.
 
 Finally saving the model to retrieve it for next usage without declaration the class again.
 
+Other Files: 
+
+CalculatingInceptionScore_MNIST_Classifier file: uses Pretrained model to calculate Score Classifier like Inception classifier idea, to assess Generative AI Architectures like GAN that generate MNIST dataset.
+
 Thank you. 
 
 Next: 
